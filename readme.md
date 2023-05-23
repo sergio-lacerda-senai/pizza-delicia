@@ -1,7 +1,8 @@
 # Meu repositório legal
 
-## Um item qualquer
+## Um item qualquer bontinho e irado ao mesmo tempo
 
-- Repositório da Zuleika
+- Repositório da Zuleika e do Pafúncio
 - Feito em HTML / CSS
-- Repositório bonitinho
+- Repositório bonitinho e doidão
+
